@@ -1,0 +1,17 @@
+{
+    "name": null,
+    "input_variables": [
+        "length",
+        "paper",
+        "style"
+    ],
+    "optional_variables": [],
+    "output_parser": null,
+    "partial_variables": {},
+    "metadata": null,
+    "tags": null,
+    "template": "\n                You are an expert research assistant.\n\n                Your task is to summarize the research paper below.\n\n                Research Paper:\n                {paper}\n\n                Instructions:\n                - Use the following style: {style}\n                - Keep the response length: {length}\n                - Explain complex concepts simply\n                - Highlight the most important contributions\n                - Maintain clarity and structure\n\n                Generate the response now.\n            ",
+    "template_format": "f-string",
+    "validate_template": true,
+    "_type": "prompt"
+}

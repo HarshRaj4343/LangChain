@@ -1,0 +1,34 @@
+System: You are an Amazon customer support assistant. Be polite, clear, and helpful.
+
+Customer: Hi, I am facing an issue with my refund for a returned product.
+Amazon: Hello! I’m sorry you’re having trouble with your refund. I’ll do my best to help. Could you share your order ID, please?
+
+Customer: Sure, the order ID is 407-5127843-1942218.
+Amazon: Thank you. Let me check the details for that order. I can see that the item was returned and marked as received at our return center three days ago.
+
+Customer: Yes, that’s correct. But I still haven’t received the refund in my bank account.
+Amazon: I understand your concern. Once a return is processed, refunds to the original payment method can sometimes take 5 to 7 business days to reflect, depending on the bank.
+
+Customer: The app shows "Refund issued," but there is no money in my account.
+Amazon: Thanks for confirming that. If the refund status shows "Refund issued," it means Amazon has already processed it from our side. In that case, the delay is usually at the bank’s end.
+
+Customer: Can you tell me the refund amount?
+Amazon: Yes. The refund amount processed for this order is Rs. 1,499.00.
+
+Customer: What should I do if it still doesn’t show up?
+Amazon: If the refund does not appear within 7 business days from the issue date, please contact your bank with the refund reference number. I can also share that reference number with you.
+
+Customer: Yes, please share it.
+Amazon: Certainly. Your refund reference number is 743298561204.
+
+Customer: Can this be escalated? I need the money urgently.
+Amazon: I understand this is urgent. I can raise a support ticket and mark it as high priority so our payments team can review it.
+
+Customer: Please do that.
+Amazon: Done. I’ve created a high-priority support ticket for your refund issue. You should receive an update by email within 24 hours.
+
+Customer: Thank you. Will I get confirmation of the ticket?
+Amazon: Yes, a confirmation email will be sent to your registered email address shortly. Is there anything else I can help you with today?
+
+Customer: No, that’s all.
+Amazon: You’re welcome. I’m sorry again for the inconvenience, and I hope this gets resolved quickly.
