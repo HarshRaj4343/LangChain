@@ -10,5 +10,5 @@ llm = HuggingFaceEndpoint(
 
 model = ChatHuggingFace(llm=llm)
 
-result = model.invoke("What is the capital of France?")
+result = model.invoke("What the hell is the use of String parsers or anytype of parsing in langchain?")
 print(result.content)
