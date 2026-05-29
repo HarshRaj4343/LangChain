@@ -28,4 +28,8 @@ transformers==5.8.1
 
 # Extras needed by some demos
 faiss-cpu
+faiss-gpu
 email-validator
+youtube_transcript_api
+pytube
+openai
