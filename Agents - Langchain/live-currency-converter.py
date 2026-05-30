@@ -43,7 +43,7 @@ model = ChatHuggingFace(llm=llm)
 # Tools
 # ---------------------------------------------------------------------------
 
-EXCHANGE_API_KEY = "d61b36cab6dff181877e9c5c"  # replace with your own key if needed
+EXCHANGE_API_KEY = EXCHANGE_API_KEY # replace with your own key if needed
 
 
 @tool
